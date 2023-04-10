@@ -1,0 +1,27 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="site.css">
+    <title>primeiro projeto</title>
+</head>
+<body>
+    <Header>Quem sou eu?</Header>
+    <br>
+    <div>Me chamo Elton, tenho 22 anos, moro no bairro Jardim das Camélias em São Miguel Pta.
+        Sou cozinheiro, tenho alguns cursos na área de gastronomia, porém pelo estilo de vida que nós profissionais da gastronomia levamos estou em busca de novos desafios </div>
+        <header>Vida pessoal</header>
+        <br>
+        <div></div>
+        <header>Vida profissional</header>
+        <br>
+        <div>Cozinheiro há 6 anos, já trabalhei em hoteis, restaurantes, etc. Hoje faço parte do quadro de cozinheiros da Frutaria Sp, da unindade de Santana, </div> <a href="https://www.frutariasp.com.br/"></a>
+        <header>Tecnologias</header>
+        <br>
+        <div></div>
+
+        
+</body>
+</html>
